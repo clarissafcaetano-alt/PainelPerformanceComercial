@@ -10,6 +10,8 @@ usando **SQLite** como persistência.
 mvn -q clean compile
 mvn -q exec:java
 ```
+![Execução no PowerShell](execucao-powershell.png)
+
 O banco `painel.db` é criado automaticamente.
 
 ## Fluxo
